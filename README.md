@@ -24,8 +24,6 @@ jupyter notebook --no-browser > /tmp/jupyter.log 2>&1 &
 ```
 
 You can then open Jupyter in a web browser at " http://127.0.0.1:8888/tree " (Use a browser like Chromium inside you VM or don't forget to redicet port 8888 (Jupyter) and 6006  (Tensorboard) if you are accessing Jupyter in a VM from your host computer's browser)
-```
-
 
 ## Note 
 
